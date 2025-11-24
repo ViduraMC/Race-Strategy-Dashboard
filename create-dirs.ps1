@@ -1,0 +1,14 @@
+mkdir src\domain\entities
+mkdir src\domain\repositories
+mkdir src\domain\services
+mkdir src\application\use-cases
+mkdir src\application\dto
+mkdir src\infrastructure\parsers
+mkdir src\infrastructure\repositories
+mkdir src\infrastructure\cache
+mkdir src\infrastructure\factories
+mkdir src\presentation\components\dashboard
+mkdir src\presentation\contexts
+mkdir src\presentation\hooks
+mkdir src\presentation\services
+mkdir src\config
