@@ -6,7 +6,6 @@ A powerful, browser-based telemetry analysis dashboard built for the **Hack the 
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0.3-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
 
@@ -173,22 +172,6 @@ race-strategy-dashboard/
 
 ---
 
-## 🌐 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com) and sign in with GitHub
-3. Click **"Add New Project"**
-4. Import your `race-strategy-dashboard` repository
-5. Vercel will auto-detect Next.js settings
-6. Click **"Deploy"**
-7. Your app will be live at `https://your-project.vercel.app`
-
-**Auto-deployment**: Every push to `main` automatically triggers a new deployment.
-
----
-
 ## 🎨 Features Deep Dive
 
 ### Telemetry Processing Pipeline
@@ -209,31 +192,6 @@ race-strategy-dashboard/
 
 ---
 
-## 🐛 Known Limitations
-
-- **GPS Data Requirement**: Track map requires telemetry to include GPS latitude/longitude fields
-- **Large Files**: Files with 10M+ rows may take 30-60 seconds to scan
-- **Browser Memory**: Very large datasets (50M+ rows) may exceed browser memory limits
-
----
-
-## 🤝 Contributing
-
-This project was built for **Hack the Track 2025**. Contributions, suggestions, and improvements are welcome!
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -246,7 +204,7 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ## 📧 Contact
 
-**Developer**: Vidur  
+**Developer**: Vidura 
 **Hackathon**: Hack the Track 2025  
 **Event**: Toyota GR Cup Telemetry Analysis Challenge
 
